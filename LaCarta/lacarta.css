@@ -8,6 +8,10 @@ div.titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+div.imagenlogo{
+    text-align: center;
+}
+
 div.espaciado{
     margin-top: 500px;
 }

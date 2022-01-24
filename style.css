@@ -9,6 +9,10 @@ div.titulo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+div.imagenlogo{
+    text-align: center;
+}
+
 div.lineanegr{
     background-color: black;
     height: 2px;
@@ -43,17 +47,3 @@ div.centrmarg{
     width: 100%;
 }
 
-/* CSS General Páginas Secundarias */
-
-
-    /* CSS Lacarta */
-
-
-
-
-    /* CSS ElCafe */
-
-
-
-
-    /* CSS Conacto */
